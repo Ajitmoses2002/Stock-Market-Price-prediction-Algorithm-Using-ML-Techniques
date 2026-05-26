@@ -1,0 +1,2 @@
+# Stock-Market-Price-prediction-Algorithm-Using-ML-Techniques
+This project uses an LSTM deep learning model to predict Tata stock prices using historical market data. The model is trained on past stock trends and tested against real market values to compare predicted and actual prices. The project demonstrates machine learning techniques for financial time-series forecasting and stock market analysis.
